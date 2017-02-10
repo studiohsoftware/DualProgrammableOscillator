@@ -1,2 +1,2 @@
-# Model258e
-Files for 258e Dual Oscillator
+# Dual Programmable Oscillator
+Files for the Dual Programmable Oscillator
